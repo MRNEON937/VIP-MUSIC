@@ -23,7 +23,7 @@ async def init():
         and not config.STRING4
         and not config.STRING5
     ):
-        LOGGER("VIPMUSIC").error(
+        LOGGER("LOVExMUSIC").error(
             "WTF Baby ! Atleast add a pyrogram string, How Cheap..."
         )
         return
@@ -31,7 +31,7 @@ async def init():
         not config.SPOTIFY_CLIENT_ID
         and not config.SPOTIFY_CLIENT_SECRET
     ):
-        LOGGER("VIPMUSIC").warning(
+        LOGGER("LOVExMUSIC").warning(
             "Sur spotify id aur secret toh daala hi nahi aapne ab toh spotify se nahi chala paaoge gaane."
         )
     try:
@@ -45,8 +45,8 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("VIPMUSIC.plugins." + all_module)
-    LOGGER("VIPMUSIC.plugins").info(
+        importlib.import_module("LOVExMUSIC.plugins." + all_module)
+    LOGGER("LOVExMUSIC.plugins").info(
         "Necessary Modules Imported Successfully."
     )
     await userbot.start()
@@ -60,17 +60,17 @@ async def init():
             "https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4"
         )
     except NoActiveGroupCall:
-        LOGGER("VIPMUSIC").error(
+        LOGGER("LOVExMUSIC").error(
             "[ERROR] - \n\nHey Baby, firstly open telegram and turn on voice chat in Logger Group else fu*k off. If you ever ended voice chat in log group i will stop working and users will fu*k you up."
         )
         sys.exit()
     except:
         pass
     await Anon.decorators()
-    LOGGER("VIPMUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗣 𝗕𝗢𝗬♨️\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER("LOVExMUSIC").info("╔═════ஜ۩۞۩ஜ════╗\n  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 NEON♨️\n╚═════ஜ۩۞۩ஜ════╝")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("VIPMUSIC").info("Stopping Music Bot...")
+    LOGGER("LOVExMUSIC").info("Stopping Music Bot...")
