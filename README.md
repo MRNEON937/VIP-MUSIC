@@ -22,10 +22,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7b51adb8645bb87510996.jpg">
+  <img src="https://te.legra.ph/file/7b51adb510996.jpg">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥NEON🍷𝗠𝗨𝗦𝗜𝗖❥𝄟⃟🥀](https://t.me/II_VIP_MUSIC_II_BOT)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥NEON🍷𝗠𝗨𝗦𝗜𝗖❥𝄟⃟🥀](https://t.me/THESUKOONLYRIC)**
 
 
 
