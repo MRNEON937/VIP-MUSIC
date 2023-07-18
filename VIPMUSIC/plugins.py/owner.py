@@ -111,8 +111,8 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"
-                        .https://t.me/LxF_MR_NEON")
+                        "🌱ƨσʋяcɛ🌱", url=f"🌱ƨσʋяcɛ🌱", url=f"https://t.me/LxF_MR_NEON")
+                        
                 ]
             ]
         ),
@@ -130,7 +130,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/LxF_MR_NEON")
                 ]
             ]
         ),
@@ -148,7 +148,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌱ƨσʋяcɛ🌱", url=f"https://github.com/THE-VIP-BOY-OP/VIP-MUSIC")
+                        "🌱ƨσʋяcɛ🌱", url=f"https://t.me/LxF_MR_NEON")
                 ]
             ]
         ),
