@@ -1,5 +1,5 @@
 ━━━━━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+### 🌷Love_X_Music🌷
 
 <!--
 **LOVE_x_MUSIC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7b51adb510996.jpg">
+  <img src="https://te.legra.ph/file/fd2f339115950750d03ab.jpg">
 </p>
 
 **𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥NEON🍷𝗠𝗨𝗦𝗜𝗖❥𝄟⃟🥀](https://t.me/THESUKOONLYRIC)**
